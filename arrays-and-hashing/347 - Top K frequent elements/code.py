@@ -31,3 +31,5 @@ submit = Solution()
 print(submit.topKFrequent([1,1,1,2,2,3], 2)) # [1,2]
 print(submit.topKFrequent([1], 1)) # [1]
 print(submit.topKFrequent([], 1)) # []
+
+# TODO: Better solution

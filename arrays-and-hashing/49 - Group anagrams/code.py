@@ -36,3 +36,5 @@ submit = Solution()
 print(submit.groupAnagrams(["eat", "eat", "tea", "tan", "ate", "nat", "bat"])) # [["bat"], ["nat", "tan"], ["ate", "eat", "tea"]]
 print(submit.groupAnagrams([""])) # [[""]]
 print(submit.groupAnagrams(["a"])) # [["a"]]
+
+# TODO: Better solution
